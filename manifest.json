@@ -1,0 +1,20 @@
+{
+"name": "Mangalam",
+  "short_name": "Mangalam",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8efae4",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczOVuaQh-L_yV4k845gtsHOmdgUZBGwwa-CpUXhWzNmRr6JBGz8MhVgmjqbvWoYKBKJknBImLgDYZFzpJEkLfL4GsNBwfmaH8sqItC4CdJZhUC_r6Ys=s192-p-k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczO3KrHDC4cJnBrRPd0clkDreuWRKnaWGP3extG1yjjF8_s7gNNgXFg1M3KBA3Ya4YGnLpvMpkFZhcO3Ck1z7kvcbLeT6oe6BEk39-D1HWCj_F1Eiuk=w2400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
